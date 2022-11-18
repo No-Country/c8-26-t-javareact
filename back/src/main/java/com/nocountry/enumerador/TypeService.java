@@ -6,6 +6,6 @@ public enum TypeService {
 	Jardineria,
 	Electricidad,
 	Carpinteria,
-	Construccion
+	Construccion,
 
 }
